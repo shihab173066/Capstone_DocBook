@@ -1,0 +1,9 @@
+By Md. Shihab Hossain
+----------------------
+1. create database named 'docbook' in xampp.
+2. import the docbook.sql file on that database.
+3. create database named 'admindb' in xampp.
+4. import the admindb.sql file on that database.
+5. go to the main project folder directory and cd to it in cmd.
+6. type "php artisan serve" (laravel and composer must be installed)
+7. done!
